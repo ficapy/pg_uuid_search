@@ -1,0 +1,2 @@
+# pg_uuid_search
+将Postgresql中的所有uuid数据导入到redis中, 查找uuid存在哪些字段里面
